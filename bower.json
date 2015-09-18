@@ -1,0 +1,23 @@
+{
+  "name": "cndd_landing",
+  "version": "0.0.0",
+  "authors": [
+    "Andrey Soloviev <andreysoloweb@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "geekon": "*",
+    "jquery": "~2.1.4",
+    "scrollmagic": "ScrollMagic#~2.0.5"
+  }
+}
